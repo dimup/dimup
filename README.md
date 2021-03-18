@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dimup
 - 👀 I’m interested in ML
-- 🌱 I’m currently learning NLP  Image processing 
+- 🌱 I’m currently learning NLP and Image processing 
 - 📫 How to reach me wodn5428@gmail.com
 
 <!---
